@@ -55,7 +55,7 @@ Como este projeto utiliza dados locais e não depende de chaves de API externas,
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/dierlisson/AppQuiz.git](https://github.com/dierlisson/AppQuiz.git)
+    git clone https://github.com/dierlisson/AppQuiz.git
     ```
 2.  **Abra o projeto** no Android Studio.
 3.  Aguarde o Android Studio realizar a **sincronização do Gradle** (Sync Project with Gradle Files).
