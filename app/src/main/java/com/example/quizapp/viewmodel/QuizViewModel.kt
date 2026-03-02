@@ -1,6 +1,8 @@
-package com.example.quizapp
+package com.example.quizapp.viewmodel
 
 import androidx.lifecycle.ViewModel
+import com.example.quizapp.model.Question
+import com.example.quizapp.model.androidQuizQuestions
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
